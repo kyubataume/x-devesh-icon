@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?5zemif');
-  src:  url('fonts/icomoon.eot?5zemif#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?5zemif') format('truetype'),
-    url('fonts/icomoon.woff?5zemif') format('woff'),
-    url('fonts/icomoon.svg?5zemif#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?43pt36');
+  src:  url('fonts/icomoon.eot?43pt36#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?43pt36') format('truetype'),
+    url('fonts/icomoon.woff?43pt36') format('woff'),
+    url('fonts/icomoon.svg?43pt36#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,18 +25,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-arrow-down-box-fill:before {
+.icon-arrow-right-long-line:before {
   content: "\e900";
 }
-.icon-arrow-left-circle-fill:before {
+.icon-arrow-up-long-fill:before {
   content: "\e901";
 }
-.icon-arrow-right-circle-fill:before {
+.icon-arrow-down-long-fill:before {
   content: "\e902";
 }
-.icon-arrow-right-up-box-fill:before {
+.icon-arrow-left-up-long-fill:before {
   content: "\e903";
 }
-.icon-arrow-up-circle-fill:before {
+.icon-arrow-left-long-line:before {
   content: "\e904";
 }
